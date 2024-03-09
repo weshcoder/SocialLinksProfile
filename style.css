@@ -49,7 +49,7 @@ body, *  {
     font-weight: 700;
 }
 
-a:hover { 
+.bottom a:hover { 
     background-color: hsl(75, 94%, 57%);
     width: 340px;
     color: hsl(0, 0%, 12%);
