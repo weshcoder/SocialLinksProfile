@@ -49,8 +49,9 @@ a {
 }
 
 a:hover { 
-    background-color: rgba(173, 173, 173, 0.766);
+    background-color: hsl(75, 94%, 57%);
     width: 340px;
+    color: hsl(0, 0%, 12%);
 }
 
 img { 
